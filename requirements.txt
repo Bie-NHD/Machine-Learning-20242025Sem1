@@ -1,6 +1,9 @@
 matplotlib
 numpy
 pandas
+scikit-learn
 tensorflow
 tf_keras
 tensorflow_decision_forests
+tensorflow_hub
+tensorflow_probability
